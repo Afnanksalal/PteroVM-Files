@@ -1,0 +1,2 @@
+# Avoid commit Codespace devcontainer
+.devcontainer/
